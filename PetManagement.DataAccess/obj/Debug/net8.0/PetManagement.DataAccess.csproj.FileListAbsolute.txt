@@ -1,0 +1,17 @@
+C:\Users\Lenovo\Documents\Malai\PetManagement.DataAccess\bin\Debug\net8.0\PetManagement.DataAccess.deps.json
+C:\Users\Lenovo\Documents\Malai\PetManagement.DataAccess\bin\Debug\net8.0\PetManagement.DataAccess.runtimeconfig.json
+C:\Users\Lenovo\Documents\Malai\PetManagement.DataAccess\bin\Debug\net8.0\PetManagement.DataAccess.dll
+C:\Users\Lenovo\Documents\Malai\PetManagement.DataAccess\bin\Debug\net8.0\PetManagement.DataAccess.pdb
+C:\Users\Lenovo\Documents\Malai\PetManagement.DataAccess\bin\Debug\net8.0\PetManagement.Data.dll
+C:\Users\Lenovo\Documents\Malai\PetManagement.DataAccess\bin\Debug\net8.0\PetManagement.Data.pdb
+C:\Users\Lenovo\Documents\Malai\PetManagement.DataAccess\obj\Debug\net8.0\PetManagement.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\Malai\PetManagement.DataAccess\obj\Debug\net8.0\PetManagement.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Documents\Malai\PetManagement.DataAccess\obj\Debug\net8.0\PetManagement.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\Malai\PetManagement.DataAccess\obj\Debug\net8.0\PetManagement.DataAccess.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\Malai\PetManagement.DataAccess\obj\Debug\net8.0\PetManagement.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\Malai\PetManagement.DataAccess\obj\Debug\net8.0\PetManagement.DataAccess.csproj.CopyComplete
+C:\Users\Lenovo\Documents\Malai\PetManagement.DataAccess\obj\Debug\net8.0\PetManagement.DataAccess.dll
+C:\Users\Lenovo\Documents\Malai\PetManagement.DataAccess\obj\Debug\net8.0\refint\PetManagement.DataAccess.dll
+C:\Users\Lenovo\Documents\Malai\PetManagement.DataAccess\obj\Debug\net8.0\PetManagement.DataAccess.pdb
+C:\Users\Lenovo\Documents\Malai\PetManagement.DataAccess\obj\Debug\net8.0\PetManagement.DataAccess.genruntimeconfig.cache
+C:\Users\Lenovo\Documents\Malai\PetManagement.DataAccess\obj\Debug\net8.0\ref\PetManagement.DataAccess.dll

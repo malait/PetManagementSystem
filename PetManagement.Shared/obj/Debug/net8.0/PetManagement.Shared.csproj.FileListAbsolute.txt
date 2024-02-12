@@ -1,0 +1,11 @@
+C:\Users\Lenovo\Documents\Malai\PetManagement.Shared\bin\Debug\net8.0\PetManagement.Shared.deps.json
+C:\Users\Lenovo\Documents\Malai\PetManagement.Shared\bin\Debug\net8.0\PetManagement.Shared.dll
+C:\Users\Lenovo\Documents\Malai\PetManagement.Shared\bin\Debug\net8.0\PetManagement.Shared.pdb
+C:\Users\Lenovo\Documents\Malai\PetManagement.Shared\obj\Debug\net8.0\PetManagement.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Documents\Malai\PetManagement.Shared\obj\Debug\net8.0\PetManagement.Shared.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\Malai\PetManagement.Shared\obj\Debug\net8.0\PetManagement.Shared.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\Malai\PetManagement.Shared\obj\Debug\net8.0\PetManagement.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\Malai\PetManagement.Shared\obj\Debug\net8.0\PetManagement.Shared.dll
+C:\Users\Lenovo\Documents\Malai\PetManagement.Shared\obj\Debug\net8.0\refint\PetManagement.Shared.dll
+C:\Users\Lenovo\Documents\Malai\PetManagement.Shared\obj\Debug\net8.0\PetManagement.Shared.pdb
+C:\Users\Lenovo\Documents\Malai\PetManagement.Shared\obj\Debug\net8.0\ref\PetManagement.Shared.dll
